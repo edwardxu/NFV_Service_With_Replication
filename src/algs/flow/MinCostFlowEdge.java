@@ -7,7 +7,7 @@ import graph.Node;
 
 public class MinCostFlowEdge extends DefaultWeightedEdge{
 		
-	/**
+	/** 
 	 * 
 	 */
 	private static final long serialVersionUID = 7286332007574167278L;
