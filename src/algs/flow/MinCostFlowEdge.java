@@ -3,7 +3,7 @@ package algs.flow;
 import org.jgrapht.graph.DefaultWeightedEdge;
 
 import graph.Node;
-
+  
 
 public class MinCostFlowEdge extends DefaultWeightedEdge{
 		
